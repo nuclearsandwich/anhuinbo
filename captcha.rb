@@ -8,7 +8,7 @@ class HIP
   def self.prompts
     ["corners", "edges", "inner"]
   end
-  PUZZLES = [ ["ADMP", "ABCDHLPONMIE", "FGJK"], ["PIBA", "PIBANFNOGDMK", "LEJC"] ]
+  PUZZLES = [ ["ADMP", "ABCDHLPONMIE", "FGJK"], ["PIBA", "PMKIHFAONBDG", "LEJC"] ]
 
   attr_reader :puzzle, :prompt
 
